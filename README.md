@@ -1,16 +1,17 @@
-# washit
+Washit
 
 A new Flutter project.
 
-## Getting Started
+## Getting Started ##
 
-This project is a starting point for a Flutter application.
+This is a simple cart management Flutter app implemented using GetX package.
 
-A few resources to get you started if this is your first Flutter project:
+Here are some screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_2022-07-04-17-19-17-960_com example washit](https://user-images.githubusercontent.com/61840607/177168672-b2b1bfa7-93d9-44d8-98fc-7d0b177a13f0.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_2022-07-04-17-19-23-037_com example washit](https://user-images.githubusercontent.com/61840607/177168773-63626de5-00c6-413f-b426-08cb74a5bf8f.jpg)
+
+![Screenshot_2022-07-04-17-19-34-726_com example washit](https://user-images.githubusercontent.com/61840607/177168799-0320cbb5-d55f-4c09-8623-38a4aa9e7454.jpg)
+
+![Screenshot_2022-07-04-17-19-37-185_com example washit](https://user-images.githubusercontent.com/61840607/177168822-18264fc8-4050-4345-90c2-1de59fb9aaa9.jpg)
